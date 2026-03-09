@@ -333,7 +333,7 @@ You can:
 
 ---
 
-### ✅ Added here (right place): Distributed Systems + Data Engineering + System Design + LLM Evaluation + Safety + GPU Optimization
+### 🌐 Distributed Systems + Data Engineering + System Design + LLM Evaluation + Safety + GPU Optimization
 
 #### 6.1) DISTRIBUTED SYSTEMS (VERY Important for Production AI) 🌐⚙️
 Most AI roadmaps ignore this, but **real AI systems run on distributed infrastructure**.
@@ -506,7 +506,7 @@ Tools:
 
 ---
 
-### ✅ Added here (right place): Extra “industry stack” tools that match the missing topics
+### 🚀 Extra “industry stack” tools
 #### Distributed / Data / Orchestration Tools
 - Kafka
 - Redis
@@ -560,21 +560,18 @@ Tools:
 17) **LLM eval harness**: dataset versioning + regression gates + dashboard  
 18) **LLM fine-tune project**: LoRA on a narrow domain + RAG fallback + rollout plan
 
-✅ **Portfolio rule:** every project must have:
-- README with problem → approach → results → next steps
-- clean repo structure + tests
-- demo video + deployed endpoint (even small)
-
----
-
-### ✅ Added here (right place): portfolio upgrades to cover missing elite skills
-#### Tier 4+ (Elite production + distributed + evaluation + safety) 🟥🧨
+#### Tier 5 (Elite production + distributed + evaluation + safety) 🟥🧨
 19) **Distributed RAG platform** (Kafka queue + worker pool + caching + rate limits)  
 20) **LLM Safety Gateway** (prompt injection detection + policy checks + red teaming scripts)  
 21) **GPU inference benchmark suite** (batching + quantization experiments + latency/cost report)  
 22) **Data pipeline + feature store demo** (Airflow DAG + batch/stream split + monitoring)  
 23) **Open-source contribution project** (pick one repo and ship real PRs with tests + docs)  
 24) **One Massive AI Product with users** (see “The Final Missing Piece” below)
+
+✅ **Portfolio rule:** every project must have:
+- README with problem → approach → results → next steps
+- clean repo structure + tests
+- demo video + deployed endpoint (even small)
 
 ---
 
@@ -609,10 +606,6 @@ Tools:
   https://www.coursera.org/learn/machine-learning-operations-with-vertex-ai-manage-features
 - **Docker DCA specialization (Coursera)**  
   https://www.coursera.org/specializations/docker-certified-associate-dca-course
-
----
-
-### ✅ Added here (right place): “recognized resources” for missing elite skills
 - **Grokking System Design**
 - **Designing Machine Learning Systems (Chip Huyen)**
 
@@ -645,9 +638,6 @@ Tools:
 - MLOps concepts + cloud deployment + monitoring
 - ship “real product” style repo
 
----
-
-### ✅ Added here (right place): the missing “elite phases”
 ### Phase 6 — Distributed Systems + Data Engineering (6–12 weeks, alongside Phase 5) 🌐📊
 - Horizontal scaling, load balancing, queues, microservices
 - Kafka / Redis / Celery
@@ -680,12 +670,6 @@ Assuming you study seriously (and build projects), typical ranges:
 - **Deep Learning**: 150–250 hours  
 - **GenAI/LLM Engineering**: 120–220 hours (changes fast; you’ll keep updating)  
 - **MLOps/Production/Cloud**: 150–300 hours (best learned by shipping)
-
-✅ A realistic “job-ready strong” path: **9–15 months** with consistent project output.
-
----
-
-### ✅ Added here (right place): time estimates for the missing elite topics
 - **Distributed systems + data engineering**: 120–250 hours  
 - **System design for AI systems**: 60–150 hours (then ongoing)  
 - **LLM evaluation + safety**: 80–200 hours  
@@ -693,6 +677,7 @@ Assuming you study seriously (and build projects), typical ranges:
 - **Open source contribution**: 20–200+ hours (ongoing)  
 - **Research papers literacy**: 40–120 hours (then ongoing)
 
+✅ A realistic “job-ready strong” path: **9–15 months** with consistent project output.
 ---
 
 ## 8) TOOLS (industry stack) 🧰🔧
@@ -798,15 +783,6 @@ Repeat a 4-week cycle:
 3) add monitoring + cost/latency optimization
 4) cloud deploy + write a case study
 
-**Cert option during this phase (optional but helpful):**
-- pick **one**:
-  - Google ML Engineer: https://cloud.google.com/learn/certification/machine-learning-engineer  
-  - Azure AI Engineer: https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-engineer/  
-  - AWS ML Engineer Associate: https://aws.amazon.com/certification/certified-machine-learning-engineer-associate/
-
----
-
-### ✅ Added here (right place): an elite weekly add-on track (run in parallel after Week 12)
 #### Weeks 13–20 (Parallel Track): System Design + Distributed + Data Engineering 🌐🧱📊
 - **Learn**
   - system scalability
@@ -827,6 +803,12 @@ Repeat a 4-week cycle:
   - batching, quantization, inference optimization
 - **Project**
   - Build an eval harness repo and make it gate your deployments
+
+**Cert option during this phase (optional but helpful):**
+- pick **one**:
+  - Google ML Engineer: https://cloud.google.com/learn/certification/machine-learning-engineer  
+  - Azure AI Engineer: https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-engineer/  
+  - AWS ML Engineer Associate: https://aws.amazon.com/certification/certified-machine-learning-engineer-associate/
 
 ---
 
@@ -850,9 +832,6 @@ Repeat a 4-week cycle:
 6) **No production mindset**  
    Fix: treat projects like products: auth, rate limits, logging, versioning, rollbacks.
 
----
-
-### ✅ Added here (right place): missing elite mistakes to avoid
 7) **Ignoring distributed systems**  
    Fix: build at least one system with queues + workers + caching.
 
@@ -870,14 +849,6 @@ Repeat a 4-week cycle:
 
 12) **Never contributing to open source**  
    Fix: ship small PRs to HuggingFace / LangChain / LlamaIndex / PyTorch.
-
----
-
-✅ If you want, tell me:
-- how many hours/week you can consistently study (e.g., 15, 20, 30),
-- and whether you want your “main cloud” to be **GCP / AWS / Azure**,
-
-…and I’ll convert this into a **graduation-timeline plan** (by semesters) with a **portfolio release schedule** (what to ship each month). 🎯
 
 ---
 
